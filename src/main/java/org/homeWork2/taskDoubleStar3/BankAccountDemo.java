@@ -18,11 +18,5 @@ public class BankAccountDemo {
 
 
         userOutput.Print(days);
-
-
-
-
-
-
     }
 }
